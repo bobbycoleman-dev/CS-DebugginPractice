@@ -22,11 +22,11 @@ foreach(int i in MoreNumbers)
 }
 // Challenge 4
 List<int> EvenMoreNumbers = new() {3,6,9,12,14};
-foreach(int num in EvenMoreNumbers)
+for(int i = 0; i < EvenMoreNumbers.Count-1; i++)
 {
-    if(num % 3 == 0)
+    if(EvenMoreNumbers[i] % 3 == 0)
     {
-        Console.WriteLine(num);
+        EvenMoreNumbers[i] = 0;
     }
 }
 // Challenge 5
