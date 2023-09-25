@@ -1,0 +1,15 @@
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-DebugginPractice/DebuggingPractice/bin/Debug/net6.0/DebuggingPractice
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-DebugginPractice/DebuggingPractice/bin/Debug/net6.0/DebuggingPractice.deps.json
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-DebugginPractice/DebuggingPractice/bin/Debug/net6.0/DebuggingPractice.runtimeconfig.json
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-DebugginPractice/DebuggingPractice/bin/Debug/net6.0/DebuggingPractice.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-DebugginPractice/DebuggingPractice/bin/Debug/net6.0/DebuggingPractice.pdb
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-DebugginPractice/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.csproj.AssemblyReference.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-DebugginPractice/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-DebugginPractice/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.AssemblyInfoInputs.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-DebugginPractice/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.AssemblyInfo.cs
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-DebugginPractice/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.csproj.CoreCompileInputs.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-DebugginPractice/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-DebugginPractice/DebuggingPractice/obj/Debug/net6.0/refint/DebuggingPractice.dll
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-DebugginPractice/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.pdb
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-DebugginPractice/DebuggingPractice/obj/Debug/net6.0/DebuggingPractice.genruntimeconfig.cache
+/Users/bcoleman/Developer/CodingDojo/CSharp/Fundamentals/CS-DebugginPractice/DebuggingPractice/obj/Debug/net6.0/ref/DebuggingPractice.dll
